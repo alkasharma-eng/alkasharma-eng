@@ -1,4 +1,42 @@
-## Hi there 👋
+## Hi, I’m Alka Sharma! 👋
+
+I'm a curious and mission-driven software engineer exploring **AI agents**, **cloud automation**, and intelligent internal tools. I recently shipped a quick prototype [AWS TagSense](https://github.com/alkasharma-eng/aws-tagsense-ai-assistant) — a GPT-powered assistant that helps cloud teams identify and explain untagged EC2 instances using natural language. This work blends **Python**, **Streamlit**, **OpenAI APIs**, and **AWS** to build smart, accessible developer tools.
+
+---
+
+### 🔧 What I'm Working On
+
+- 🤖 Exploring agentic AI and building small tools that offload cognitive load for developers
+- 📊 Designing UIs that make cloud governance feel *natural* and intelligent
+- 🎓 Taking [Google’s 5-Day AI Agents Intensive Course](https://developers.google.com/learn/pathways/ai-agents) to deepen my understanding of production-ready agent systems
+
+---
+
+### 🌟 Featured Projects
+
+- [`AWS TagSense`](https://github.com/alkasharma-eng/aws-tagsense-ai-assistant): A natural language tagging assistant for EC2, built with Streamlit + OpenAI + Boto3
+- `cloud-ai-experiments`: A playground for ideas that blend cloud ops with conversational AI (coming soon)
+
+---
+
+### 🌱 I’m Looking For
+
+I'm actively seeking **professional software roles or collaborations** where I can:
+
+- Build or contribute to **AI-driven developer tools**, internal agents, or platform products
+- Work with **thoughtful teams** at the intersection of **AI + cloud infrastructure**
+- Learn from product-minded mentors and contribute with energy and care
+
+---
+
+### 🤝 Let’s Connect
+
+If you're working on something cool, hiring, or just curious about shared ideas:
+
+- 📬 [Reach out on LinkedIn](https://www.linkedin.com/in/alkasharma/)
+- 💌 alka.pi.sharma [at] gmail [dot] com
+
+Thanks for stopping by 🌟
 
 <!--
 **alkasharma-eng/alkasharma-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
