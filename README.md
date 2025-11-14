@@ -23,7 +23,7 @@ As a curious and mission-driven software engineer I'm exploring **AI agents**, *
 
 ### 🌱 I’m Looking For
 
-I'm actively seeking **professional software roles or collaborations** where I can:
+I'm actively seeking **my next professional software role and collaborations** where I can:
 
 - Build or contribute to **AI-driven developer tools**, internal agents, or platform products
 - Work with **thoughtful teams** at the intersection of **AI + cloud infrastructure**
