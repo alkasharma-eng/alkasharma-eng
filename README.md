@@ -1,4 +1,4 @@
-## Hi, I’m Alka Sharma! 👋
+## Hi, I’m Alka! 👋
 
 I bring over seven years of software engineering experience, including roles at **Microsoft** and **PayPal**. I’ve worked on large-scale systems that enhanced security, reliability, merchant enterprise insights and developer experience, and I’m now focused on deepening my system design and backend architecture expertise as I pursue interviews to re-enter the tech industry.
 
@@ -36,7 +36,7 @@ I'm actively seeking **my next professional software role and collaborations** w
 If you're working on something cool, hiring, or just curious about shared ideas:
 
 - 📬 [Reach out on LinkedIn](https://www.linkedin.com/in/alkasharma/)
-- 💌 alka.pi.sharma [at] gmail [dot] com
+- 💌 alka.pi.sharma@gmail.com
 
 Thanks for stopping by 🌟
 
