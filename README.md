@@ -4,6 +4,13 @@ I bring over seven years of software engineering experience, including roles at 
 
 As a curious and mission-driven software engineer I'm exploring **AI agents**, **cloud automation**, and intelligent internal tools. I recently shipped a quick prototype [AWS TagSense](https://github.com/alkasharma-eng/aws-tagsense-ai-assistant) — a GPT-powered assistant that helps cloud teams identify and explain untagged EC2 instances using natural language. This work blends **Python**, **Streamlit**, **OpenAI APIs**, and **AWS** to build smart, accessible developer tools.
 
+I’m a builder, a career changer, and a technologist who leads with emotional intelligence—and kindness.
+
+I’ve shipped across stacks and crossed industries from dance choreography to software engineering. I’ve mentored children through anxiety, helped colleagues under pressure, and kept showing up—even in 16-hour days, long commutes, and tough family circumstances.
+
+I believe kindness is strength. I believe grit and compassion are not at odds.
+I’m here to learn, contribute, and help others grow while I grow too.
+
 ---
 
 ### 🔧 What I'm Working On
