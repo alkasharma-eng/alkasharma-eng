@@ -10,7 +10,7 @@ As a curious and mission-driven software engineer I'm exploring **AI agents**, *
 
 - 🤖 Exploring agentic AI and building small tools that offload cognitive load for developers
 - 📊 Designing UIs that make cloud governance feel *natural* and intelligent
-- 🎓 Taking [Google’s 5-Day AI Agents Intensive Course](https://developers.google.com/learn/pathways/ai-agents) to deepen my understanding of production-ready agent systems
+- 🎓 Taking [Google’s 5-Day AI Agents Intensive Course](https://www.kaggle.com/learn-guide/5-day-agents) to deepen my understanding of production-ready agent systems
 
 ---
 
