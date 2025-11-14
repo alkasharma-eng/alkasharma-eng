@@ -1,6 +1,6 @@
 ## Hi, I’m Alka! 👋
 
-I bring over seven years of software engineering experience, including roles at **Microsoft** and **PayPal**. I’ve worked on large-scale systems that enhanced data center security and reliability, merchant enterprise insights and ecommerce developer experience, and I’m now focused on deepening my system design and backend architecture expertise as I pursue interviews to re-enter the tech industry.
+I bring over seven years of software engineering experience, including roles at **Microsoft** and **PayPal**. I’ve worked on large-scale systems that enhanced data center security and reliability, merchant enterprise insights and ecommerce developer experience. I’m now focused on deepening AI, system design and backend architecture expertise as I pursue technical interviews to re-enter the tech industry.
 
 As a curious and mission-driven software engineer I'm exploring **AI agents**, **cloud automation**, and intelligent internal tools. I recently shipped a quick prototype [AWS TagSense](https://github.com/alkasharma-eng/aws-tagsense-ai-assistant) — a GPT-powered assistant that helps cloud teams identify and explain untagged EC2 instances using natural language. This work blends **Python**, **Streamlit**, **OpenAI APIs**, and **AWS** to build smart, accessible developer tools.
 
